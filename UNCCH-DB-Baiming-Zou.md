@@ -42,7 +42,7 @@ edu-master1: # 硕士经历，没有或找不到，可不填
   advisor:
 edu-master2: # 硕士经历，没有或找不到，可不填
   university: University of Wisconsin — Madison
-  school: Physics []
+  school: Physics 
   date-start: 
   date-end: 1999
   advisor:
@@ -84,13 +84,13 @@ group:
 
 # 所属团队，学者可能有不同的兴趣小组，可以列上去
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件
-  university: 
-  school: 
+  university: University of North Carolina at Chapel Hill  
+  school: Department of Biostatistics 
   major: 
-  email: 
-  homepage: # 机构内学者主页
-  date-start: 
-  title: 
+  email: bzou@email.unc.edu   
+  homepage: https://sph.unc.edu/bios/bios-people/ 
+  date-start: 2020
+  title: Assistant Professor
   type: 
 job-post-doc: # 博士后研究员，字段填写参看示例文件，若无可不填写
   university: 
