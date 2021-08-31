@@ -67,13 +67,13 @@ page-other:   # 其他有用的链接，部分可从学者主页子栏目获得
 collaboration: # 合作研究，关注学者和其他哪些学科的人合作，具体研究哪些主题
   - 
     with: Beeber, Anna
-    project: A Safer Assisted Living':' Creating a Toolkit for Person and Family Engagement
+    project: Creating a Toolkit for Person and Family Engagement
   - 
     with: Angell, Amber
     project: Characterizing the Health and Healthcare Utilization of Girls with Autism Spectrum Disorder in Florida
   - 
     with: Kiefer, Adam
-    project: Leveraging Artificial-intelligence to Profile and Enhance Phenotypic Plasticity for Second Injury Prevention':' An Innovative Precision Medicine Platform to Revolutionize Injury Care
+    project: An Innovative Precision Medicine Platform to Revolutionize Injury Care
 group: 
   - Nature
   - BMJ
