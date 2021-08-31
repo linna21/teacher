@@ -24,11 +24,11 @@ bio-current:
   github: 
   googlescholar:  
   aminer: # 从这里查找 https://www.aminer.org/search/person
-  status: 在读
+  status: 在职
   last-update: 2021-8-31 # yyyy-mm-dd 最近一次信息更新日期
 edu-phd:  # 读博经历
   university: University of North Carolina at Chapel Hill
-  school: Biostatistics []
+  school: Biostatistics 
   email: bzou@email.unc.edu   
   date-start: 
   date-end: 2013
