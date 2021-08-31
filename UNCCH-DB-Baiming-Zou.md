@@ -66,19 +66,13 @@ page-other:   # 其他有用的链接，部分可从学者主页子栏目获得
   baidu-baike:
 collaboration: # 合作研究，关注学者和其他哪些学科的人合作，具体研究哪些主题
   - 
-    with: 
-    - Beeber
-    - Anna
+    with:   
     project: Creating a Toolkit for Person and Family Engagement
   - 
     with: 
-    - Angell 
-    - Amber
     project: Characterizing the Health and Healthcare Utilization of Girls with Autism Spectrum Disorder in Florida
   - 
     with: 
-    - Kiefer
-    - Adam
     project: An Innovative Precision Medicine Platform to Revolutionize Injury Care
 group: 
   - Nature
